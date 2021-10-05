@@ -1,13 +1,20 @@
-Welcome to Apertif Data Release 1!
-===================================
+.. ASTRON DataRelease documentation master file, created by
+   sphinx-quickstart on Tue Oct  5 14:58:51 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+Welcome to ASTRON DataRelease's documentation!
+==============================================
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
